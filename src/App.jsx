@@ -4,7 +4,7 @@ import styles from './styles';
 import AuthService from './services/AuthService';
 import LeaveService from './services/LeaveService';
 import LoginPage from './components/LoginPage';
-import Dashboard from './components/DashBoard';
+import Dashboard from './components/Dashboard';
 import LeaveForm from './components/LeaveForm';
 import LeaveHistory from './components/LeaveHistory';
 
